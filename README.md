@@ -15,8 +15,8 @@ The robot needs to categorize medical items (pills, box-pack medicines, and syri
 - `Place`: Put an object into a container
 
 ## Reasoning Process
-1. **Locate objects**: Identify all objects that need categorization
-2. **Categorize items**: Determine the category of each object
+1. **Locate objects**: Identify all medicine-objects that need categorization
+2. **Categorize items**: Determine the category of each medicine-objects
 3. **Locate boxes**: Find all destination boxes
 4. **Identify box categories**: Determine which box corresponds to which medicine type
 5. **Sort items**: Place each medicine into its correct box until all are categorized
